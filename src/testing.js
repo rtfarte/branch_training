@@ -1,2 +1,2 @@
 
-[1, 2, 3].forEach(console.log);
+[1, 2, 3].forEach(i => console.log(i));
