@@ -1,4 +1,4 @@
 # branch_training
 A demo repository for training purposes.
 
-This is the first commit. Just a second.
+This is the first commit. Just a second!
