@@ -9,3 +9,5 @@ My wife likes maple bars.
 Steve likes them bearclaws.
 
 Jake likes Krispy Kreme.
+
+David doesn't eat donuts.
